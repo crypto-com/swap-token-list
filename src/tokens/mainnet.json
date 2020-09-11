@@ -1,0 +1,58 @@
+[
+   {
+    "name": "Wrapped Ether",
+    "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "symbol": "WETH",
+    "decimals": 18,
+    "chainId": 1,
+    "logoURI": "https://crypto.com/price/coin-data/icon/ETH/color_icon.png"
+  },
+  {
+    "name": "Tether USD",
+    "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+    "symbol": "USDT",
+    "decimals": 6,
+    "chainId": 1,
+    "logoURI": "https://crypto.com/price/coin-data/icon/USDT/color_icon.png"
+  },
+  {
+    "name": "USDCoin",
+    "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+    "symbol": "USDC",
+    "decimals": 6,
+    "chainId": 1,
+    "logoURI": "https://crypto.com/price/coin-data/icon/USDC/color_icon.png"
+  },
+  {
+    "name": "Dai Stablecoin",
+    "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+    "symbol": "DAI",
+    "decimals": 18,
+    "chainId": 1,
+    "logoURI": "https://crypto.com/price/coin-data/icon/DAI/color_icon.png"
+  },
+  {
+    "name": "ChainLink Token",
+    "address": "0x514910771AF9Ca656af840dff83E8264EcF986CA",
+    "symbol": "LINK",
+    "decimals": 18,
+    "chainId": 1,
+    "logoURI": "https://crypto.com/price/coin-data/icon/LINK/color_icon.png"
+  },
+  {
+    "name": "Compound",
+    "address": "0xc00e94Cb662C3520282E6f5717214004A7f26888",
+    "symbol": "COMP",
+    "decimals": 18,
+    "chainId": 1,
+    "logoURI": "https://crypto.com/price/coin-data/icon/COMP/color_icon.png"
+  },
+  {
+    "name": "Crypto.com Coin",
+    "address": "0xA0b73E1Ff0B80914AB6fe0444E65848C4C34450b",
+    "symbol": "CRO",
+    "decimals": 8,
+    "chainId": 1,
+    "logoURI": "https://crypto.com/price/coin-data/icon/CRO/color_icon.png"
+  }
+]

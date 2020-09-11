@@ -1,0 +1,41 @@
+{
+  "name": "swap-token-list",
+  "version": "1.0.0",
+  "description": "CRO DeFi Swap Token List",
+  "main": "build/cropswap-mainnet.tokenlist.json",
+  "scripts": {
+    "test": "mocha",
+    "build_mainnet": "node src/write_mainnet.js > build/cropswap-mainnet.tokenlist.json",
+    "build_ropsten": "node src/write_ropsten.js > build/cropswap-ropsten.tokenlist.json",
+    "build": "npm run build_mainnet && npm run build_ropsten",
+    "prepublishOnly": "npm test && npm run build"
+  },
+  "files": [
+    "build/cropswap-mainnet.tokenlist.json",
+    "build/cropswap-ropsten.tokenlist.json"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crypto-com/swap-token-list.git"
+  },
+  "keywords": [
+    "cro",
+    "defi",
+    "swap",
+    "token",
+    "list"
+  ],
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/crypto-com/swap-token-list/issues"
+  },
+  "homepage": "https://github.com/crypto-com/swap-token-list#readme",
+  "devDependencies": {
+    "@ethersproject/address": "^5.0.2",
+    "@uniswap/token-lists": "^1.0.0-beta.8",
+    "ajv": "^6.12.3",
+    "chai": "^4.2.0",
+    "mocha": "^8.0.1",
+    "rimraf": "^3.0.2"
+  }
+}

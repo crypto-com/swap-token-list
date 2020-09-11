@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Wrapped Ether",
+    "address": "0xc778417E063141139Fce010982780140Aa0cD5Ab",
+    "symbol": "WETH",
+    "decimals": 18,
+    "chainId": 3,
+    "logoURI": "https://crypto.com/price/coin-data/icon/ETH/color_icon.png"
+  },
+  {
+    "name": "CRO",
+    "address": "0xb29B906e8030942F377c8488Df14d833e5Da290D",
+    "symbol": "CRO",
+    "decimals": 8,
+    "chainId": 3,
+    "logoURI": "https://crypto.com/price/coin-data/icon/CRO/color_icon.png"
+  },
+  {
+    "name": "USDC",
+    "address": "0xE87ba22E3993e78408B693D7151AF128BB54d403",
+    "symbol": "USDC",
+    "decimals": 6,
+    "chainId": 3,
+    "logoURI": "https://crypto.com/price/coin-data/icon/USDC/color_icon.png"
+  },
+  {
+    "name": "Dai Stablecoin",
+    "address": "0xaD6D458402F60fD3Bd25163575031ACDce07538D",
+    "symbol": "DAI",
+    "decimals": 18,
+    "chainId": 3,
+    "logoURI": "https://crypto.com/price/coin-data/icon/DAI/color_icon.png"
+  }
+]
