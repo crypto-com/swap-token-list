@@ -62,5 +62,13 @@
     "decimals": 18,
     "chainId": 1,
     "logoURI": "https://images.prismic.io/token-price-prod/917bc4fa-59d4-40f5-a3ef-33035698ffe0_YFIxxxhdpi.png"
+  },
+  {
+    "name": "Wrapped BTC",
+    "address": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
+    "symbol": "WBTC",
+    "decimals": 8,
+    "chainId": 1,
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3717.png"
   }
 ]
