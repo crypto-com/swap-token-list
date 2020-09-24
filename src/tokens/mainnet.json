@@ -86,5 +86,13 @@
     "decimals": 18,
     "chainId": 1,
     "logoURI": "https://images.prismic.io/token-price-prod/7025845c-661e-455d-9a05-e23060c6ccf7_FARM-xxxhdpi.png"
+  },
+  {
+    "name": "Swerve",
+    "address": "0xb8baa0e4287890a5f79863ab62b7f175cecbd433",
+    "symbol": "SWRV",
+    "decimals": 18,
+    "chainId": 1,
+    "logoURI": "https://images.prismic.io/token-price-prod/4c5568c7-4796-48ce-8be3-d16f4e04b543_SWRV%404x.png"
   }
 ]
