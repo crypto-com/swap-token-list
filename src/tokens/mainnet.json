@@ -77,7 +77,7 @@
     "symbol": "UNI",
     "decimals": 18,
     "chainId": 1,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984/logo.png"
+    "logoURI": "https://images.prismic.io/token-price-prod/d0352dd9-5de8-4633-839d-bc3422c44d9c_UNI%404x.png"
   },
   {
     "name": "Harvest Finance",
@@ -94,5 +94,13 @@
     "decimals": 18,
     "chainId": 1,
     "logoURI": "https://images.prismic.io/token-price-prod/4c5568c7-4796-48ce-8be3-d16f4e04b543_SWRV%404x.png"
+  },
+  {
+    "name": "UMA",
+    "address": "0x04fa0d235c4abf4bcf4787af4cf447de572ef828",
+    "symbol": "UMA",
+    "decimals": 18,
+    "chainId": 1,
+    "logoURI": "https://images.prismic.io/token-price-prod/e2850554-ccf6-4514-9c3c-a17e19dea82f_UMAxxxhdpi.png"
   }
 ]
