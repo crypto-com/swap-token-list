@@ -102,5 +102,13 @@
     "decimals": 18,
     "chainId": 1,
     "logoURI": "https://images.prismic.io/token-price-prod/e2850554-ccf6-4514-9c3c-a17e19dea82f_UMAxxxhdpi.png"
+  },
+  {
+    "name": "Ren",
+    "address": "0x408e41876cccdc0f92210600ef50372656052a38",
+    "symbol": "REN",
+    "decimals": 18,
+    "chainId": 1,
+    "logoURI": "https://crypto.com/price/coin-data/icon/REN/color_icon.png"
   }
 ]
