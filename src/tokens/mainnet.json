@@ -110,5 +110,13 @@
     "decimals": 18,
     "chainId": 1,
     "logoURI": "https://crypto.com/price/coin-data/icon/REN/color_icon.png"
+  },
+  {
+    "name": "Nest Protocol",
+    "address": "0x04abeda201850ac0124161f037efd70c74ddc74c",
+    "symbol": "NEST",
+    "decimals": 18,
+    "chainId": 1,
+    "logoURI": "https://images.prismic.io/token-price-prod/3927e112-5b11-49e0-ac17-af92590ca23c_NESTxxxhdpi.png"
   }
 ]
