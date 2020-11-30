@@ -118,5 +118,29 @@
     "decimals": 18,
     "chainId": 1,
     "logoURI": "https://images.prismic.io/token-price-prod/3927e112-5b11-49e0-ac17-af92590ca23c_NESTxxxhdpi.png"
+  },
+  {
+    "name": "Aave Token",
+    "address": "0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+    "symbol": "AAVE",
+    "decimals": 18,
+    "chainId": 1,
+    "logoURI": "https://images.prismic.io/token-price-prod/46f6a7eb-e3e4-4e88-b245-801016815bc4_aave_128.png"
+  },
+  {
+    "name": "Curve DAO Token",
+    "address": "0xD533a949740bb3306d119CC777fa900bA034cd52",
+    "symbol": "CRV",
+    "decimals": 18,
+    "chainId": 1,
+    "logoURI": "https://images.prismic.io/token-price-prod/30e59256-82c0-46bb-abec-444028ee4d01_CRVxxxhdpi.png"
+  },
+  {
+    "name": "TrueFi",
+    "address": "0x4c19596f5aaff459fa38b0f7ed92f11ae6543784",
+    "symbol": "TRU",
+    "decimals": 8,
+    "chainId": 1,
+    "logoURI": "https://assets.coingecko.com/coins/images/13180/large/trust-token.png"
   }
 ]
