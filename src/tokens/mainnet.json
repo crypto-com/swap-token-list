@@ -198,5 +198,14 @@
     "decimals": 18,
     "chainId": 1,
     "logoURI": "https://assets.coingecko.com/coins/images/913/large/LRC.png"
+  },
+  {
+    "name": "Nordic Energy Token",
+    "address": "0x4D0A4C762BD7f742096DAAF5911dcf9C94b9ea95",
+    "symbol": "NET",
+    "decimals": 8,
+    "chainId": 1,
+    "logoURI": "https://i.imgur.com/wOmG3UV.png"
+     
   }
 ]
