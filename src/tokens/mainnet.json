@@ -198,5 +198,13 @@
     "decimals": 18,
     "chainId": 1,
     "logoURI": "https://assets.coingecko.com/coins/images/913/large/LRC.png"
+  },
+  {
+    "name": “Hanu Yokia”,
+    "address": "0x72e5390edb7727e3d4e3436451dadaff675dbcc0",
+    "symbol": “HANU”,
+    "decimals": 12,
+    "chainId": 1,
+    "logoURI": "https://assets.coingecko.com/coins/images/17161/large/Goji_Hanu_Logo_200x200.png"
   }
 ]
